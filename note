@@ -1,0 +1,34 @@
+git restore story1.txt  #from stage or commit
+git add . 
+git add story1.txt
+git commit -m "add story"
+
+
+#create new branch
+git branch sara
+#switch to an existing branch
+git checkout sara
+#create new branch and switch to it
+git checkout -b sara
+#delete branch
+git branch -d sara
+# list branch
+git branch
+
+# merge
+(feature/signup)$ git checkout master
+(master)$ git merge feature/signup
+
+#remote repo
+git remote add origin https://github/...
+git remote -v
+origin https://.... (fetch)
+origin https://... (push)
+git push origin master
+
+#once remote repo master has some update
+git fetch origin master
+git merge origin/master # merge the remote master and local master
+
+
+git pull origin master # = get fetch and git merge above
