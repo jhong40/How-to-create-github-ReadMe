@@ -5,6 +5,3 @@
 - [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 - [copy paste example](https://markdown-it.github.io/)
 - [List of Example](https://github.com/matiassingers/awesome-readme)
-
-_blah_
-__bold__
