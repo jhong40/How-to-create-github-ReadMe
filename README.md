@@ -1,6 +1,6 @@
 # gitcommand
 :smiley:
-- [GitMarkdown](https://guides.github.com/features/mastering-markdown/#examples)
+- [GitMarkdown](https://docs.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)
 - https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 _blah_
