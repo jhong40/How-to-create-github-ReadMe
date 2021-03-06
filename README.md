@@ -4,4 +4,4 @@
 - [GitMarkdown Advanced](https://docs.github.com/en/github/writing-on-github/working-with-advanced-formatting)
 - [emoji](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
 - [copy paste example](https://markdown-it.github.io/)
-- [List of Example](https://github.com/matiassingers/awesome-readme)
+- [List of Beutiful Example](https://github.com/matiassingers/awesome-readme)
